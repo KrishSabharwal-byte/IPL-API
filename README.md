@@ -1,7 +1,6 @@
 # 🏏 IPL Data API Project
 
 ## 🚀 Features
-* **Live Match Updates:** Real-time score fetching (agar aapne live feature dala hai).
 * **Match History:** Purane matches ka data (2008-2024).
 * **Team Stats:** Har team ki performance aur squad ki details.
 * **Player Profiles:** Players ka record aur unke stats.
